@@ -1,0 +1,11 @@
+{
+  "name": "test-renovate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Roms1383/test-renovate.git",
+  "author": "Romain KELIFA <romain.kelifa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commitlint": "^7.6.1"
+  }
+}
