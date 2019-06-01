@@ -1,5 +1,6 @@
 {
   "timezone": "Asia/Bangkok",
+  "semanticCommits": true,
   "semanticCommitType": ":arrow_up:",
   "semanticCommitScope": null,
   "packageRules": [
