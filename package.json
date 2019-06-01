@@ -6,6 +6,6 @@
   "author": "Romain KELIFA <romain.kelifa@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "commitlint": "^7.6.1"
+    "commitlint": "^8.0.0"
   }
 }
